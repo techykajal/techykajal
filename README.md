@@ -25,7 +25,7 @@
 
 I'm Kajal Yadav, a self-taught Data Scientist 🚀 and an Open-Source enthusiast ⚡ from India.  I am passionate about Data science📈, Machine Learning🤖 , Deep learning & I enjoy learning new things. I want to build things that make a difference. I'm always open to new ideas and opportunities.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/techykajal/techykajal/main/procurement-ai.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/techykajal/techykajal/main/procurement-ai.gif"  />
 
 **Talking about Personal Stuffs:**
 
